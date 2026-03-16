@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Yağmur</h1>
 
+<h1 align="center">I'm Yağmur.</h1>
 <p align="center">
 Junior Software Developer • Istanbul
 </p>
 
 <p align="center">
-Learning software development, data science and artificial intelligence
+<em>Learning software development, data science and artificial intelligence</em>
 </p>
 
 ---
@@ -32,30 +32,30 @@ Learning software development, data science and artificial intelligence
 
 ## Currently Learning
 
-- Data Science
-- Machine Learning
-- Artificial Intelligence
-- Unity Game Development
-- Software Engineering
+- Data Science  
+- Machine Learning  
+- Artificial Intelligence  
+- Unity Game Development  
+- Software Engineering  
 
 ---
 
 ## Projects
 
 - Python Mini Projects  
-- Unity 2D Game Experiments  
+- Unity 2D Game Development  
 - Data Analysis with Python  
 - Web Projects (HTML, CSS, JavaScript)
 
 ---
 
-## GitHub Stats
+## GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yiaslnky&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yiaslnky&show_icons=true&theme=default"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiaslnky&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiaslnky&layout=compact&theme=default"/>
 
 </p>
 
@@ -65,3 +65,9 @@ Learning software development, data science and artificial intelligence
 
 Email: yagmurayan341@gmail.com  
 GitHub: https://github.com/yiaslnky
+
+---
+
+<p align="center">
+  Just Coding and Music.
+</p>
