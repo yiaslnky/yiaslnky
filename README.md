@@ -1,4 +1,4 @@
-# 🌸 Hi, I'm Yağmur.
+# ฅᨐฅ Hi, I'm Yağmur.
 
 💻 Junior Software Developer  
 📍 Istanbul, Turkey  
