@@ -22,6 +22,7 @@
 - Machine Learning
 - Unity Game Development
 - Artificial Intelligence
+- Software Engineer
 
 ---
 
