@@ -1,4 +1,4 @@
-<h1 align="center">Yağmur</h1>
+<h1 align="center">I'm Yağmur</h1>
 <p align="center">
 Junior Software Developer • Istanbul
 </p>
@@ -68,5 +68,5 @@ GitHub: https://github.com/yiaslnky
 ---
 
 <p align="center">
-🌸 Always learning, always building.
+  Just Coding and Music.
 </p>
