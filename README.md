@@ -1,4 +1,4 @@
-# Yağmur
+# I'm Yağmur.
 
 Junior Software Developer  
 Istanbul, Turkey
