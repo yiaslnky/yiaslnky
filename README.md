@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yağmur Ayan
+# 👋 Hi, I'm Yağmur.
 
 💻 Junior Software Developer  
 📍 Istanbul, Turkey  
