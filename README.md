@@ -1,4 +1,4 @@
-# ฅᨐฅ Hi, I'm Yağmur.
+# 🌧️ Hi, I'm Yağmur.
 
 💻 Junior Software Developer  
 📍 Istanbul, Turkey  
@@ -47,3 +47,4 @@ GitHub: https://github.com/yiaslnky
 ## ⚡ Fun Fact
 
 I love learning programming, building games and exploring artificial intelligence.
+
