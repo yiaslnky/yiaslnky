@@ -47,19 +47,6 @@ Junior Software Developer • Istanbul
 - Data Analysis with Python  
 - Web Projects (HTML, CSS, JavaScript)
 
----
-
-## GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yiaslnky&show_icons=true&theme=default"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiaslnky&layout=compact&theme=default"/>
-
-</p>
-
----
 
 ## Contact
 
